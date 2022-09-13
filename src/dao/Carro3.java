@@ -19,6 +19,7 @@ public class Carro3 {
 
         System.out.println("hola carro3");
         System.out.println("hola 1 clonado");
+         System.out.println("version 1.0");
     }
     
 }
