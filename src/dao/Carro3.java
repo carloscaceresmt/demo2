@@ -16,7 +16,9 @@ public class Carro3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
         System.out.println("hola carro3");
+        System.out.println("hola 1 clonado");
     }
     
 }
